@@ -1,4 +1,4 @@
-# 🌟 Modular Exponentiation — Study Notes by Euphyllia 🌟
+# 🌟 Modular Exponentiation — Study Notes 🌟
 
 _Elegant math with magical flair~!_
 
