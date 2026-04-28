@@ -1,4 +1,4 @@
-# 🌌 Cyber-Scholar Dashboard: Public-Key Authentication 🔐
+# 🌌 Public-Key Authentication 🔐
 
 ---
 

@@ -1,4 +1,4 @@
-# 🌌 Cyber-Scholar Dashboard: Cryptographic Protocols 🔒
+# 🌌 Cryptographic Protocols 🔒
 
 ---
 
