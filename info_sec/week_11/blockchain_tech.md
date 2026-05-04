@@ -1,4 +1,4 @@
-# 🌌 Blockchain Cyber-Scholar Dashboard
+# 🌌 Blockchain
 
 ---
 

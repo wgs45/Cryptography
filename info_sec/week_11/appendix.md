@@ -1,4 +1,4 @@
-# 🌌 Cryptographic Hash Functions — Cyber-Scholar Dashboard
+# 🌌 Cryptographic Hash Functions
 
 ---
 
