@@ -1,4 +1,4 @@
-# 🔒💳 Cyber-Scholar Dashboard — Financial Cryptography & HSM Security
+# 🔒💳 Financial Cryptography & HSM Security
 
 > _Modern financial infrastructure survives on trust. Cryptography is the invisible force protecting every transaction, PIN, and identity across the digital economy._ 🌌
 
